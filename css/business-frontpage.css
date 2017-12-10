@@ -28,3 +28,11 @@ body {
 .card {
   height: 100%;
 }
+
+.docs{
+  padding: 20px 0px;
+  margin-bottom: 400px;
+}
+.doc ul li{
+  list-style-type: none;
+}
